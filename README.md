@@ -1,11 +1,12 @@
 # Notes:-
 
-### The solution is concentrated more on the back end implementation. Lately, in the
+### Solution
+
+The solution is concentrated more on the back end implementation. Lately, in the
 typical production systems, the front end and back end codes are decoupled
 and maintained separately. The front end and back end communicates using
 RESTful APIs. I have provided the solution using Spring MVC as it is easier to
-keep the solution in one component for this technical test purpose. I have got
-the clarification from Shelly before choosing Thymeleaf for the implementation.
+keep the solution in one component.
 
 # Home URL:-
 
