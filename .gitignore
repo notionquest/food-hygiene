@@ -1,0 +1,17 @@
+.idea
+logs
+target
+.classpath
+.project
+.settings
+build.properties
+.metadata
+transaction.log
+nbactions*.xml
+nb-configuration.xml
+dependency-reduced-pom.xml
+faces-config.NavData
+dependency-reduced-pom.xml
+*.iml
+*.sublime-project
+*.sublime-workspace

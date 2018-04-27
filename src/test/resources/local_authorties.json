@@ -1,0 +1,267 @@
+{
+  "authorities": [
+    {
+      "LocalAuthorityId": 197,
+      "LocalAuthorityIdCode": "760",
+      "Name": "Aberdeen City",
+      "EstablishmentCount": 1835,
+      "SchemeType": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/197"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 390,
+      "LocalAuthorityIdCode": "255",
+      "Name": "Scarborough",
+      "EstablishmentCount": 1611,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/390"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 204,
+      "LocalAuthorityIdCode": "767",
+      "Name": "Scottish Borders",
+      "EstablishmentCount": 1520,
+      "SchemeType": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/204"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 317,
+      "LocalAuthorityIdCode": "282",
+      "Name": "Sedgemoor",
+      "EstablishmentCount": 1246,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/317"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 185,
+      "LocalAuthorityIdCode": "424",
+      "Name": "Sefton",
+      "EstablishmentCount": 1969,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/185"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 391,
+      "LocalAuthorityIdCode": "256",
+      "Name": "Selby",
+      "EstablishmentCount": 601,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/391"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 255,
+      "LocalAuthorityIdCode": "187",
+      "Name": "Sevenoaks",
+      "EstablishmentCount": 806,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/255"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 226,
+      "LocalAuthorityIdCode": "789",
+      "Name": "Shetland Islands",
+      "EstablishmentCount": 350,
+      "SchemeType": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/226"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 381,
+      "LocalAuthorityIdCode": "708",
+      "Name": "Shropshire",
+      "EstablishmentCount": 2367,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/381"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 292,
+      "LocalAuthorityIdCode": "885",
+      "Name": "Slough",
+      "EstablishmentCount": 692,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/292"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 378,
+      "LocalAuthorityIdCode": "426",
+      "Name": "Solihull",
+      "EstablishmentCount": 1429,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/378"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 203,
+      "LocalAuthorityIdCode": "766",
+      "Name": "South Ayrshire",
+      "EstablishmentCount": 1301,
+      "SchemeType": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/203"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 231,
+      "LocalAuthorityIdCode": "024",
+      "Name": "South Buckinghamshire",
+      "EstablishmentCount": 575,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/231"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 5,
+      "LocalAuthorityIdCode": "032",
+      "Name": "South Cambridgeshire",
+      "EstablishmentCount": 1089,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/5"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 54,
+      "LocalAuthorityIdCode": "069",
+      "Name": "South Derbyshire",
+      "EstablishmentCount": 693,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/54"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 325,
+      "LocalAuthorityIdCode": "856",
+      "Name": "South Gloucestershire",
+      "EstablishmentCount": 1789,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/325"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 300,
+      "LocalAuthorityIdCode": "077",
+      "Name": "South Hams",
+      "EstablishmentCount": 743,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/300"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 384,
+      "LocalAuthorityIdCode": "900",
+      "Name": "Telford and Wrekin Council",
+      "EstablishmentCount": 1292,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/384"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 16,
+      "LocalAuthorityIdCode": "120",
+      "Name": "Tendring",
+      "EstablishmentCount": 1047,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/16"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "dataSource": "API",
+    "extractDate": "2018-03-23T14:10:11.8785093+00:00",
+    "itemCount": 392,
+    "returncode": "OK",
+    "totalCount": 392,
+    "totalPages": 1,
+    "pageSize": 392,
+    "pageNumber": 1
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://api.ratings.food.gov.uk/authorities"
+    }
+  ]
+}

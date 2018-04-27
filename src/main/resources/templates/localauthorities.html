@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Local Authorities</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+    <form action="#" th:action="@{/ratings}"  th:object="${authority}" method="post">
+        <table>
+            <tr>
+                <td>Local Authorities :</td>
+                <td>
+                    <select th:field="*{localAuthorityId}" >
+                        <option th:each="authority : ${authorities}"
+                                th:value="${authority.LocalAuthorityId}"
+                                th:utext="${authority.Name}"/>
+                    </select>
+
+                </td>
+            </tr>
+            <tr>
+                <td><input type="hidden" th:attr="name='calculatorName'"  value="Percentage"></td>
+            </tr>
+            <tr>
+                <td><input name="submit" type="submit" value="Get Ratings Statistics" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
